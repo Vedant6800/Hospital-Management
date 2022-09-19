@@ -1,0 +1,2 @@
+# Hospital-Management
+This is the simple program for the purpose of Hospital Management that is, Printing the Hospital Information, Printing the Staff information, getting the patient information about the patient from the user, assigning the available ward to the patient, Creating the special file for storing the patient's information, Storing Patient's information to that particular file, Accessing the Patient's information by just entering the name of the patient, deleting the Patient's information After giving discharge to the patient, etc.
