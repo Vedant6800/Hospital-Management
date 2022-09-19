@@ -1,0 +1,7 @@
+name : Rushikesh . Sarwade
+Address : Latur
+gender : Male
+Mobile Number : 0987654321
+gender : Male
+Blood Group : o+ve
+age : 19

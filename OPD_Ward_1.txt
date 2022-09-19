@@ -1,0 +1,7 @@
+name : Vedant Anil Nogja
+Address : Latur
+gender : Male
+Mobile Number : 1546325658
+gender : Male
+Blood Group : O+ve
+age : 19

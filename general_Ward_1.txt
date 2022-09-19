@@ -1,0 +1,7 @@
+name : Rohit Balaji Bhosale
+Address : Latur
+gender : Male
+Mobile Number : 0987654321
+gender : Male
+Blood Group : O_ve
+age : 19

@@ -1,0 +1,7 @@
+name : Govind . Purihit
+Address : Latur
+gender : male
+Mobile Number : 1256356256
+gender : male
+Blood Group : O+ve
+age : 18

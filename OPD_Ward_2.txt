@@ -1,0 +1,7 @@
+name : Piyush Rajgopal Miniyar
+Address : Latur
+gender : Male
+Mobile Number : 7894563569
+gender : Male
+Blood Group : O+ve
+age : 19
